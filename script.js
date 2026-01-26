@@ -2,11 +2,12 @@
 const length = Number(prompt("Enter the length of the rectangle:"));
 const width = Number(prompt("Enter the width of the rectangle:"));
 
-// Calculations
+// Calculations of the input
+
 const area = length * width;
 const perimeter = 2 * (length + width);
 
-// Output results to console
+// Output results to the console
 console.log("Mini Geometry Calculator Results");
 console.log("-------------------------------");
 console.log("Length:", length);
