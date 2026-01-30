@@ -21,3 +21,4 @@ It is designed for quick measurements, such as estimating room size for flooring
 - Width: 3
 
 ### Expected Output at the browser (Console)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b4aca9eb-eca8-4116-bcbf-74e7bea1fb06" />
